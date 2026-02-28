@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="pexels-pixabay-46235.jpg" alt="Banner" width="100%">
+</p>
+
 # 💫 About Me:
 Hi! my name is Youssef Ammar I'm a student at King Saud University(KSU) with a strong passion for technology and web development.<br>I enjoy learning, building projects.<br><br>I'm always looking to learn new tools, contribute to open-source projects, and grow as a developer.<br>Feel free to check out my repositories or connect with me!
 
